@@ -47,8 +47,6 @@ Users should be able to:
 
 I reinforced my existing knowledge about grid-box with this project, which, surprisingly, turned out to be the easiest part. What was a bit tricker was adding the typing animation whenever a timeframe button was pressed. Whenever I was first watching tutorials about HTML/CSS/JS, they used the concept of namespaces for declaring elements and editing elements using the text node, and using those concepts turned out to be beneficial when creating the typing animation. I'm gonna try to incorporate it more in my future frontend projects.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
 ### Continued development
 
 If I were to continue, I would:
